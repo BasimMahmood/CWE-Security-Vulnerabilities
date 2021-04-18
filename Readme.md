@@ -4,6 +4,7 @@
 4- We retrieved these lists and take every single vulnerability, then, we looked for its relations to the vulnerabilities (even they are not classified as dangrous).
 5- More about the work can be found in the published paper:
   http://journal.uob.edu.bh/handle/123456789/4137
+  
   Mahmood B. Prioritizing CWE/SANS and OWASP Vulnerabilities: A Network-Based Model. International Journal of Computing and Digital Systems. 2021 Feb 8;10(1):361-72.
 6- The dataset was uploaded for the years 2004 to 2017. It can be directly used on Gephi.
 
